@@ -2,7 +2,7 @@
   "heartbeat": "2026-09",
   "initialized_at": "2026-09-07T15:44:52+00:00",
   "last_alert_at": null,
-  "last_checked": "2026-09-07T15:44:52+00:00",
+  "last_checked": "2026-09-08T17:25:42+00:00",
   "listings": {
     "861950816": {
       "battery_cycles": 30,
@@ -13,7 +13,7 @@
       "first_seen": "2026-09-07T15:44:52+00:00",
       "id": "861950816",
       "image_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/7384277/products/861950816/6212610895.jpg",
-      "last_seen": "2026-09-07T15:44:52+00:00",
+      "last_seen": "2026-09-08T17:25:42+00:00",
       "match_reasons": [
         "ram_gb=24 fails ram >= 32"
       ],
@@ -37,7 +37,7 @@
       "first_seen": "2026-09-07T15:44:52+00:00",
       "id": "862217066",
       "image_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/7384277/products/862217066/6214116934.jpg",
-      "last_seen": "2026-09-07T15:44:52+00:00",
+      "last_seen": "2026-09-08T17:25:42+00:00",
       "match_reasons": [
         "ram_gb=24 fails ram >= 32"
       ],
@@ -51,6 +51,29 @@
       "title": "НОВА МОДЕЛЬ 04/2026! ІДЕАЛ MACBOOK PRO 14 M5 BLACK / 24GB RAM / SSD 1000GB/ лише 7 циклів / APPLE CARE 04/2027! + чохол",
       "url": "https://usedmactrade.com/%D0%9D%D0%9E%D0%92%D0%90-%D0%9C%D0%9E%D0%94%D0%95%D0%9B%D0%AC-04-2026-%D0%86%D0%94%D0%95%D0%90%D0%9B-MACBOOK-PRO-14-M5-BLACK-24GB-RAM-SSD-1000GB-%D0%BB%D0%B8%D1%88%D0%B5-7-%D1%86%D0%B8%D0%BA%D0%BB%D1%96%D0%B2-APPLE-CARE-04-2027-%D1%87%D0%BE%D1%85%D0%BE%D0%BB-p862217066",
       "warranty": "AppleCare until 04/2027"
+    },
+    "863060690": {
+      "battery_cycles": 280,
+      "battery_health_pct": 91,
+      "chip": "M4 Max",
+      "condition": null,
+      "currency": "USD",
+      "first_seen": "2026-09-08T17:25:42+00:00",
+      "id": "863060690",
+      "image_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/7384277/products/863060690/6223048056.jpg",
+      "last_seen": "2026-09-08T17:25:42+00:00",
+      "match_reasons": [],
+      "model": "MacBook Pro",
+      "notified_at": null,
+      "preferred": false,
+      "price": 2299.0,
+      "ram_gb": 36,
+      "screen_inches": 14,
+      "ssd_gb": 1000,
+      "status": "pending",
+      "title": "ТОПОВА 14-ка 2025 MACBOOK PRO M4 MAX / 36GB RAM / VIDEO 32 CORE / SSD 1TB + чохол",
+      "url": "https://usedmactrade.com/%D0%A2%D0%9E%D0%9F%D0%9E%D0%92%D0%90-14-%D0%BA%D0%B0-2025-MACBOOK-PRO-M4-MAX-36GB-RAM-VIDEO-32-CORE-SSD-1TB-%D1%87%D0%BE%D1%85%D0%BE%D0%BB-p863060690",
+      "warranty": null
     }
   },
   "version": 1
