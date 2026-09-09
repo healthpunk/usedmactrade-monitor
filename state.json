@@ -2,7 +2,7 @@
   "heartbeat": "2026-09",
   "initialized_at": "2026-09-07T15:44:52+00:00",
   "last_alert_at": null,
-  "last_checked": "2026-09-08T17:25:42+00:00",
+  "last_checked": "2026-09-09T00:23:15+00:00",
   "listings": {
     "861950816": {
       "battery_cycles": 30,
@@ -13,13 +13,13 @@
       "first_seen": "2026-09-07T15:44:52+00:00",
       "id": "861950816",
       "image_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/7384277/products/861950816/6212610895.jpg",
-      "last_seen": "2026-09-08T17:25:42+00:00",
+      "last_seen": "2026-09-09T00:23:15+00:00",
       "match_reasons": [
         "ram_gb=24 fails ram >= 32"
       ],
       "model": "MacBook Pro",
       "notified_at": null,
-      "price": 1790.0,
+      "price": 1799.0,
       "ram_gb": 24,
       "screen_inches": 14,
       "ssd_gb": 512,
@@ -37,13 +37,13 @@
       "first_seen": "2026-09-07T15:44:52+00:00",
       "id": "862217066",
       "image_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/7384277/products/862217066/6214116934.jpg",
-      "last_seen": "2026-09-08T17:25:42+00:00",
+      "last_seen": "2026-09-09T00:23:15+00:00",
       "match_reasons": [
         "ram_gb=24 fails ram >= 32"
       ],
       "model": "MacBook Pro",
       "notified_at": null,
-      "price": 1990.0,
+      "price": 1999.0,
       "ram_gb": 24,
       "screen_inches": 14,
       "ssd_gb": 1000,
