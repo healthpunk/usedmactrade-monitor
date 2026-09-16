@@ -2,7 +2,7 @@
   "heartbeat": "2026-09",
   "initialized_at": "2026-09-07T15:44:52+00:00",
   "last_alert_at": null,
-  "last_checked": "2026-09-11T17:47:55+00:00",
+  "last_checked": "2026-09-16T14:50:52+00:00",
   "listings": {
     "861950816": {
       "battery_cycles": 30,
@@ -74,6 +74,30 @@
       "title": "ТОПОВА 14-ка 2025 MACBOOK PRO M4 MAX / 36GB RAM / VIDEO 32 CORE / SSD 1TB + чохол",
       "url": "https://usedmactrade.com/%D0%A2%D0%9E%D0%9F%D0%9E%D0%92%D0%90-14-%D0%BA%D0%B0-2025-MACBOOK-PRO-M4-MAX-36GB-RAM-VIDEO-32-CORE-SSD-1TB-%D1%87%D0%BE%D1%85%D0%BE%D0%BB-p863060690",
       "warranty": null
+    },
+    "865286291": {
+      "battery_cycles": 20,
+      "battery_health_pct": null,
+      "chip": "M4 Pro",
+      "condition": "ideal",
+      "currency": "USD",
+      "first_seen": "2026-09-16T14:50:52+00:00",
+      "id": "865286291",
+      "image_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/7384277/products/865286291/6256970751.jpg",
+      "last_seen": "2026-09-16T14:50:52+00:00",
+      "match_reasons": [
+        "ram_gb=24 fails ram >= 32"
+      ],
+      "model": "MacBook Pro",
+      "notified_at": null,
+      "price": 1650.0,
+      "ram_gb": 24,
+      "screen_inches": 14,
+      "ssd_gb": 512,
+      "status": "no_match",
+      "title": "MACBOOK PRO 14 M4 PRO 12 CORE / VIDEO 16 CORE / BLACK / 24GB RAM / SSD 512B / лише 20 циклів / офіційна гаратнія APPLE CARE 07/2027!",
+      "url": "https://usedmactrade.com/MACBOOK-PRO-14-M4-PRO-12-CORE-VIDEO-16-CORE-BLACK-24GB-RAM-SSD-512B-%D0%BB%D0%B8%D1%88%D0%B5-20-%D1%86%D0%B8%D0%BA%D0%BB%D1%96%D0%B2-%D0%BE%D1%84%D1%96%D1%86%D1%96%D0%B9%D0%BD%D0%B0-%D0%B3%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D1%96%D1%8F-APPLE-CARE-07-2027-p865286291",
+      "warranty": "AppleCare until 07/2027"
     }
   },
   "version": 1
