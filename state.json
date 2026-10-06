@@ -2,7 +2,7 @@
   "heartbeat": "2026-10",
   "initialized_at": "2026-09-07T15:44:52+00:00",
   "last_alert_at": null,
-  "last_checked": "2026-10-05T22:14:32+00:00",
+  "last_checked": "2026-10-06T15:51:37+00:00",
   "listings": {
     "861950816": {
       "battery_cycles": 30,
@@ -108,12 +108,12 @@
       "first_seen": "2026-10-05T22:14:32+00:00",
       "id": "869261476",
       "image_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/7384277/products/869261476/6303461434.jpg",
-      "last_seen": "2026-10-05T22:14:32+00:00",
+      "last_seen": "2026-10-06T15:51:37+00:00",
       "match_reasons": [],
       "model": "MacBook Pro",
       "notified_at": null,
       "preferred": false,
-      "price": 3590.0,
+      "price": 3499.0,
       "ram_gb": 48,
       "screen_inches": 14,
       "ssd_gb": 2000,
