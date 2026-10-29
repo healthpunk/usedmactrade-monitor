@@ -2,7 +2,7 @@
   "heartbeat": "2026-10",
   "initialized_at": "2026-09-07T15:44:52+00:00",
   "last_alert_at": null,
-  "last_checked": "2026-10-22T19:25:38+00:00",
+  "last_checked": "2026-10-29T15:42:28+00:00",
   "listings": {
     "861950816": {
       "battery_cycles": 30,
@@ -213,6 +213,29 @@
       "status": "expired",
       "title": "КАСТОМНА 14-ка з NANO DISPLAY! 48GB RAM! BLACK MACBOOK PRO 14 M4 PRO (14 ядер проц 20 ядер відео начинка з 16 дюймової моделі) 48GB RAM / лише 29 циклів 100% + чохол",
       "url": "https://usedmactrade.com/%D0%9A%D0%90%D0%A1%D0%A2%D0%9E%D0%9C%D0%9D%D0%90-14-%D0%BA%D0%B0-%D0%B7-NANO-DISPLAY-48GB-RAM-BLACK-MACBOOK-PRO-14-M4-PRO-14-%D1%8F%D0%B4%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D1%86-20-%D1%8F%D0%B4%D0%B5%D1%80-%D0%B2%D1%96%D0%B4%D0%B5%D0%BE-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%BA%D0%B0-%D0%B7-16-%D0%B4%D1%8E%D0%B9%D0%BC%D0%BE%D0%B2%D0%BE%D1%97-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%96-48GB-RAM-%D0%BB%D0%B8%D1%88%D0%B5-29-%D1%86%D0%B8%D0%BA%D0%BB%D1%96%D0%B2-100-%D1%87%D0%BE%D1%85%D0%BE%D0%BB-p872200589",
+      "warranty": null
+    },
+    "874556677": {
+      "battery_cycles": 190,
+      "battery_health_pct": 86,
+      "chip": "M3 Pro",
+      "condition": null,
+      "currency": "USD",
+      "first_seen": "2026-10-29T15:42:28+00:00",
+      "id": "874556677",
+      "image_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/7384277/products/874556677/6367737251.jpg",
+      "last_seen": "2026-10-29T15:42:28+00:00",
+      "match_reasons": [],
+      "model": "MacBook Pro",
+      "notified_at": null,
+      "preferred": true,
+      "price": 1850.0,
+      "ram_gb": 36,
+      "screen_inches": 14,
+      "ssd_gb": 1000,
+      "status": "pending",
+      "title": "MACBOOK PRO 14 M3 PRO BLACK / 36GB RAM! / SSD 1000GB! / ПОВНИЙ КОМПЛЕКТ + чохол",
+      "url": "https://usedmactrade.com/MACBOOK-PRO-14-M3-PRO-BLACK-36GB-RAM-SSD-1000GB-%D0%9F%D0%9E%D0%92%D0%9D%D0%98%D0%99-%D0%9A%D0%9E%D0%9C%D0%9F%D0%9B%D0%95%D0%9A%D0%A2-%D1%87%D0%BE%D1%85%D0%BE%D0%BB-p874556677",
       "warranty": null
     }
   },
