@@ -2,7 +2,7 @@
   "heartbeat": "2026-11",
   "initialized_at": "2026-09-07T15:44:52+00:00",
   "last_alert_at": null,
-  "last_checked": "2026-11-01T02:38:40+00:00",
+  "last_checked": "2026-11-01T16:25:26+00:00",
   "listings": {
     "861950816": {
       "battery_cycles": 30,
@@ -224,7 +224,7 @@
       "first_seen": "2026-10-29T15:42:28+00:00",
       "id": "874556677",
       "image_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/7384277/products/874556677/6367737251.jpg",
-      "last_seen": "2026-11-01T02:38:40+00:00",
+      "last_seen": "2026-11-01T16:25:26+00:00",
       "match_reasons": [],
       "model": "MacBook Pro",
       "notified_at": null,
@@ -233,7 +233,7 @@
       "ram_gb": 36,
       "screen_inches": 14,
       "ssd_gb": 1000,
-      "status": "pending",
+      "status": "expired",
       "title": "MACBOOK PRO 14 M3 PRO BLACK / 36GB RAM! / SSD 1000GB! / ПОВНИЙ КОМПЛЕКТ + чохол",
       "url": "https://usedmactrade.com/MACBOOK-PRO-14-M3-PRO-BLACK-36GB-RAM-SSD-1000GB-%D0%9F%D0%9E%D0%92%D0%9D%D0%98%D0%99-%D0%9A%D0%9E%D0%9C%D0%9F%D0%9B%D0%95%D0%9A%D0%A2-%D1%87%D0%BE%D1%85%D0%BE%D0%BB-p874556677",
       "warranty": null
